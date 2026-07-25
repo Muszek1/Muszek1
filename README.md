@@ -25,7 +25,7 @@
 <br>
 
 ## 💼 Portfolio
-*   🏢 **[Kwatery dla firm](https://kwaterydlafirm.pl)**
+*   🏢 **[Kwatery dla firm](https://kwaterydlafirm.com)**
 
 ## 📫 How to Reach Me?
 *   **Discord:** muszek_
