@@ -24,21 +24,10 @@
 
 <br>
 
+## 💼 Portfolio
+*   🏢 **[Kwatery dla firm](https://kwaterydlafirm.pl)**
+
 ## 📫 How to Reach Me?
 *   **Discord:** muszek_
 
 <br>
-
-## 📊 Moje Statystyki GitHub
-
-<p align="center">
-  <a href="https://github.com/Muszek1">
-    <img src="https://github-readme-stats.vercel.app/api?username=Muszek1&show_icons=true&theme=transparent&hide_border=true&title_color=5865F2" alt="Statystyki Muszek1" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Muszek1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muszek1&layout=compact&theme=transparent&hide_border=true&title_color=5865F2" alt="Najczęściej używane języki" />
-  </a>
-</p>
