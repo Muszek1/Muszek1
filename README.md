@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi! 👋 I'm Mateusz
 
-<!--
-**Muszek1/Muszek1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Learning
+*   Java
+*   Android & Kotlin
 
-Here are some ideas to get you started:
+## 🛠️ My Tech Stack
+*   **Programming Languages:** Java
+*   **Web Technologies & Databases:** HTML, CSS, SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,mysql,docker,html,css" />
+  </a>
+</p>
+
+## 📫 How to Reach Me?
+*   **Discord:** muszek_
